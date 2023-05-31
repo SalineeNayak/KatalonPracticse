@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get started</name>
+   <tag></tag>
+   <elementGuidId>22fa0112-2b9b-4115-8972-bf395bd15bbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul/li[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da0d3aff-8d3b-489a-8cff-4411c0957f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>56ae5df7-1518-4830-aad6-e3d783d097e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__link menu__link--sublist menu__link--sublist-caret</value>
+      <webElementGuid>a1fc6de1-5ae2-433e-9126-169b39fee9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9a746b00-d4b7-4f24-816c-edafa61bf7b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started</value>
+      <webElementGuid>02c1a3a1-cb8e-49e0-9c38-065faede7df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/div[@class=&quot;main-wrapper docsWrapper_mKqt&quot;]/div[@class=&quot;docPage_ualW&quot;]/aside[@class=&quot;theme-doc-sidebar-container docSidebarContainer_UQUJ&quot;]/div[@class=&quot;sidebar_mhZE&quot;]/nav[@class=&quot;menu thin-scrollbar menu_izAj&quot;]/ul[@class=&quot;theme-doc-sidebar-menu menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed&quot;]/div[@class=&quot;menu__list-item-collapsible&quot;]/a[@class=&quot;menu__link menu__link--sublist menu__link--sublist-caret&quot;]</value>
+      <webElementGuid>fe5817ae-6e02-45dc-8f8a-8e5b6482ff08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul/li[3]/div/a</value>
+      <webElementGuid>4c779e38-e4ef-4629-97ea-334fcca41341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get started')]</value>
+      <webElementGuid>00bec58b-90a9-41ca-b20d-8b31b045b882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Katalon Platform'])[1]/following::a[2]</value>
+      <webElementGuid>b53be78d-4719-489d-97d3-b357c6b03f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start now'])[1]/following::a[3]</value>
+      <webElementGuid>7b44fbdc-61d9-4d77-92e7-733b2b64b25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Katalon Platform'])[2]/preceding::a[10]</value>
+      <webElementGuid>0ed6c4d4-a5bc-42ff-9f3f-b9f849822b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get started']/parent::*</value>
+      <webElementGuid>605bd12b-e3f8-4f94-a925-3e884b2ec976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>aa70e9b8-4973-477b-8ea8-39ac0fde6020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>41580323-bbc8-4de5-85bc-35ff42fc8721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Get started' or . = 'Get started')]</value>
+      <webElementGuid>b959d962-e63c-4f70-82a4-260fbf283fe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

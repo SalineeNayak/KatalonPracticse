@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8286c868-4a4d-4cad-a7d3-9cd29228a16a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c284f22-c809-434d-870f-0c681538d8d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c284f22-c809-434d-870f-0c681538d8d7</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No thanks</name>
+   <tag></tag>
+   <elementGuidId>8ee52d44-af62-45e6-b96f-6e1c737e3f0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.M6CB1c.rr4y5c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15633ba3-e66e-4c1a-9a3a-0dfea5b94ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>No thanks</value>
+      <webElementGuid>cb873a02-fbad-4f73-a60b-330e2501eb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>M6CB1c rr4y5c</value>
+      <webElementGuid>39ba094d-7d51-4e93-8b0c-33c9214b7651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>ZUkOIc</value>
+      <webElementGuid>7981ee38-ae87-41e2-abf9-6646a958abbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jslog</name>
+      <type>Main</type>
+      <value>71121; track:click;</value>
+      <webElementGuid>2417e22a-7bd5-4c3c-be1b-fbcffc41d0e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>n</value>
+      <webElementGuid>a67be8ed-2513-4a92-ab25-cadaa4322b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No thanks</value>
+      <webElementGuid>9f93bac5-e1e7-45c4-b688-279566b9c57f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;WrcADd&quot;]/div[@class=&quot;vQ43Ie&quot;]/div[@class=&quot;eboQFe&quot;]/div[@class=&quot;DRc6kd bdn4dc&quot;]/div[@class=&quot;QlyBfb&quot;]/button[@class=&quot;M6CB1c rr4y5c&quot;]</value>
+      <webElementGuid>7f7d9a19-5a07-444d-97c5-d763a72b0020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_Sign in_callout</value>
+      <webElementGuid>b1341987-5649-4a79-8e28-cba3c89e1f1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>49e35b5c-ba9a-43c1-8e17-e34285cbdab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save your passwords securely with your Google Account'])[1]/following::button[1]</value>
+      <webElementGuid>c0232445-d26d-4284-bdbc-7366a1ace3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to Google'])[1]/following::button[1]</value>
+      <webElementGuid>f8f36fb3-b66b-4f12-b049-1e2479a25b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::button[1]</value>
+      <webElementGuid>3d993f67-eef7-468f-986d-e88e287897a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No thanks']/parent::*</value>
+      <webElementGuid>ba87da50-4764-4273-b06d-d784a2296f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>d195b05f-6ab7-40ff-a3ac-63d572b820cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'No thanks' or . = 'No thanks')]</value>
+      <webElementGuid>1a2076b6-0346-4a96-b6b0-c487dcfe0715</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

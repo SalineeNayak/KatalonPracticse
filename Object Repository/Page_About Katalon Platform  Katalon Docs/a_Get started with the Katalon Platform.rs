@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get started with the Katalon Platform</name>
+   <tag></tag>
+   <elementGuidId>31216b4e-6cff-434c-b3b0-830b4f535ab8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul/li[3]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.theme-doc-sidebar-item-link.theme-doc-sidebar-item-link-level-2.menu__list-item > a.menu__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>26f1307d-9ae8-4260-9c44-2c321aa19df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__link</value>
+      <webElementGuid>be8874eb-89e9-4776-a31f-f7da623a5c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>45b4a179-f4d0-4f64-835a-23a16dcbbea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/docs/get-started/get-started-with-the-katalon-platform</value>
+      <webElementGuid>c2254396-e1ab-4ccc-88b5-db4d4485e1b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started with the Katalon Platform</value>
+      <webElementGuid>caf8b4df-bcda-4618-a481-3b48bbef06a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/div[@class=&quot;main-wrapper docsWrapper_mKqt&quot;]/div[@class=&quot;docPage_ualW&quot;]/aside[@class=&quot;theme-doc-sidebar-container docSidebarContainer_UQUJ&quot;]/div[@class=&quot;sidebar_mhZE&quot;]/nav[@class=&quot;menu thin-scrollbar menu_izAj&quot;]/ul[@class=&quot;theme-doc-sidebar-menu menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item&quot;]/ul[@class=&quot;menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item&quot;]/a[@class=&quot;menu__link&quot;]</value>
+      <webElementGuid>9aeb70da-4c15-4e70-9752-ddd579d97145</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul/li[3]/ul/li/a</value>
+      <webElementGuid>25a35e9c-f957-46ce-9dca-058a38dd30c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get started with the Katalon Platform')]</value>
+      <webElementGuid>d5c74714-12da-4a46-a80c-26b4b1cd8161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Katalon Platform'])[1]/following::a[3]</value>
+      <webElementGuid>4698c491-af85-47ac-951f-bdca76a0e37f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start now'])[1]/following::a[4]</value>
+      <webElementGuid>6f0ecd08-145b-459f-b337-6edda6cdbe4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminology and Formulas'])[1]/preceding::a[1]</value>
+      <webElementGuid>54bf88c0-3d28-4442-a2ee-c9e16f2d5fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Katalon Platform'])[2]/preceding::a[16]</value>
+      <webElementGuid>ca60e626-2407-4d46-b16a-f5ece44c599a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get started with the Katalon Platform']/parent::*</value>
+      <webElementGuid>3399c95a-5947-427a-a5b9-21fa96d0f7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/docs/get-started/get-started-with-the-katalon-platform')]</value>
+      <webElementGuid>099da708-ba00-467b-9867-520fdff98534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>9aa51324-df61-427a-8dfd-2d91798a73a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/docs/get-started/get-started-with-the-katalon-platform' and (text() = 'Get started with the Katalon Platform' or . = 'Get started with the Katalon Platform')]</value>
+      <webElementGuid>c67626d6-4c0e-482c-9708-592ae5c6e740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

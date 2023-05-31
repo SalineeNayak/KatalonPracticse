@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_About Katalon PlatformGeneral informatio_543605</name>
+   <tag></tag>
+   <elementGuidId>5ca74b01-cf70-4a78-a714-d2de547cf1ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.theme-doc-sidebar-menu.menu__list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>27775bf0-786f-414a-9f9d-a96bb9776261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>theme-doc-sidebar-menu menu__list</value>
+      <webElementGuid>c52eea0e-e6ee-4c62-aa8b-a71b1ac9f903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Katalon PlatformGeneral informationGet startedPlanCreate testsOrganizeExecuteAnalyzeMaintainAdministerPlugins and add-ons</value>
+      <webElementGuid>597eb6f4-9103-4104-877b-a448934ee9f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/div[@class=&quot;main-wrapper docsWrapper_mKqt&quot;]/div[@class=&quot;docPage_ualW&quot;]/aside[@class=&quot;theme-doc-sidebar-container docSidebarContainer_UQUJ&quot;]/div[@class=&quot;sidebar_mhZE&quot;]/nav[@class=&quot;menu thin-scrollbar menu_izAj&quot;]/ul[@class=&quot;theme-doc-sidebar-menu menu__list&quot;]</value>
+      <webElementGuid>cd1b8650-f32d-4218-8135-e914e00e444f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/div[2]/div/aside/div/nav/ul</value>
+      <webElementGuid>1224d1dc-6cc5-47e9-836d-d65716d08382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start now'])[1]/following::ul[1]</value>
+      <webElementGuid>6bc17b84-6789-4e64-b9e1-e87b8ea4828f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academy'])[1]/following::ul[1]</value>
+      <webElementGuid>3362b821-cb06-4525-a85f-f66c8c5ae58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Katalon Platform'])[2]/preceding::ul[1]</value>
+      <webElementGuid>5dd1a740-eee7-45ab-9352-521c95ac6190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul</value>
+      <webElementGuid>eabe3143-6549-4f0d-9c50-3ef2ec5f6f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'About Katalon PlatformGeneral informationGet startedPlanCreate testsOrganizeExecuteAnalyzeMaintainAdministerPlugins and add-ons' or . = 'About Katalon PlatformGeneral informationGet startedPlanCreate testsOrganizeExecuteAnalyzeMaintainAdministerPlugins and add-ons')]</value>
+      <webElementGuid>4d205923-818d-4743-9221-a639b6259ed8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
